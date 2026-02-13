@@ -1,8 +1,6 @@
 # Self-Organizing PM Workspace
 
-A ready-to-use workspace template for Product Managers who use [Claude Code](https://docs.anthropic.com/en/docs/claude-code) as their AI assistant. Drop files in, ask questions, and let the system stay organized on its own.
-
-## What This Solves
+A ready-to-use workspace template for Product Managers who use [Claude Code](https://docs.anthropic.com/en/docs/claude-code) as their AI assistant. I use it for staying organized without worrying about where files are.
 
 PMs accumulate tasks and knowledge from meetings, Slack, email, research — scattered across tools and folders. This workspace gives you:
 
@@ -51,7 +49,3 @@ temp/                ← Drop zone for new files awaiting classification
 - **Add directories** — e.g., `partnerships/`, `launch-plans/` — just update `CLAUDE.md` and the reconcile skill to recognize them.
 - **Add skills** — create new `.claude/skills/<name>/SKILL.md` files for repeating workflows.
 - **Change the domain** — this pattern works for any role that accumulates tasks and knowledge artifacts. Rename the folders to match your work.
-
-## License
-
-MIT — use it however you like.
